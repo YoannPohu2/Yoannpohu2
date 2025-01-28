@@ -1,4 +1,4 @@
-
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 Hi there 👋 I'm Yoann Pohu
 Welcome to my GitHub! I'm a Full Stack Developer with a passion for creating efficient and user-friendly applications. I enjoy building cool projects and learning new technologies to grow as a developer. Let me tell you a bit about myself!
 
@@ -22,11 +22,4 @@ Other: Authentication (OAuth, JWT), responsive design, and debugging.
 🔧 Portfolio: Coming soon!
 ✨ My GitHub Stats:
 
-
-
-🔬 How I Work:
-
-I believe in writing clean and maintainable code.
-I’m a big fan of collaborative learning and love working with others.
-I’m always open to feedback to improve my skills.
-Thanks for stopping by my GitHub! Don’t hesitate to reach out or check out my projects. Let’s build something awesome togethe
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?Yoannpohu2)](https://github.com/anuraghazra/github-readme-stats)
