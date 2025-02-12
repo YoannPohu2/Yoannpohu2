@@ -25,6 +25,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Yoannpohu2&color=blue)
 
 ## ⚡ Innovation & Créativité
+![Powered By Electricity](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+![Built With Love](https://forthebadge.com/images/badges/built-with-love.svg)
+![Made With Passion](https://forthebadge.com/images/badges/made-with-passion.svg)
+![Developed Using Coffee](https://forthebadge.com/images/badges/uses-brains.svg)
+![For The Badge](https://forthebadge.com/images/badges/for-you.svg)
+
 ![Powered By Electricity](https://img.shields.io/badge/Powered%20By-Electricity-yellow)
 ![Built With Love](https://img.shields.io/badge/Built%20With-Love-red)
 ![Made With Passion](https://img.shields.io/badge/Made%20With-Passion-orange)
