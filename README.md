@@ -1,37 +1,20 @@
-Hi there 👋 I'm Yoann Pohu
+Hello 👋 I'm Yoann Pohu
+
+## 🚀 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoannpohu2&show_icons=true&theme=radical)
 
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoannpohu2&layout=compact&theme=radical)
 
-Welcome to my GitHub! I'm a Full Stack Developer with a passion for creating efficient and user-friendly applications. I enjoy building cool projects and learning new technologies to grow as a developer. Let me tell you a bit about myself!
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yoannpohu2&theme=radical)
 
-🚀 About Me:
+## 📫 Me Contacter :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yoannpohu2)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yoannpohu2)
 
-⚛️ Currently working on: Web development projects using React, Node.js, and TailwindCSS.
+## 👀 Profil Views
+![Profile Views](https://komarev.com/ghpvc/?username=Yoannpohu2&color=blue)
 
-🌱 Currently learning: Advanced backend development, DevOps tools, and cloud services.
+---
 
-✨ Fun fact: I’m a huge fan of Harry Potter and love listening to Nelick’s music while coding.
-
-🌍 Hobbies: Skateboarding, exploring the outdoors, and creating landing pages with clean, responsive designs.
-
-💡 My Skills:
-
-Frontend: HTML, CSS, JavaScript, React, TailwindCSS
-
-Backend: Node.js, Express, REST APIs
-
-Databases: MySQL, MongoDB
-
-Tools: Git, Figma, Visual Studio Code, Postman
-
-Other: Authentication (OAuth, JWT), responsive design, and debugging.
-
-🔗 Connect with Me:
-
-📧 Email: yoann.pohu@epitech.eu
-
-💻 LinkedIn: Yoann Pohu
-
-🔧 Portfolio: Coming soon!
-
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?Yoannpohu2)](https://github.com/anuraghazra/github-readme-stats)
+💡 *Ce README est généré automatiquement avec [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). Tu peux le personnaliser comme tu veux !* 🚀
