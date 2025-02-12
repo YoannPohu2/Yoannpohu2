@@ -18,9 +18,17 @@
 ## 📫 Me Contacter :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoann-pohu-03b39b213/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoannpohu12@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yoann2225)
+
 
 ## 👀 Profil Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Yoannpohu2&color=blue)
+
+## ⚡ Innovation & Créativité
+![Powered By Electricity](https://img.shields.io/badge/Powered%20By-Electricity-yellow)
+![Built With Love](https://img.shields.io/badge/Built%20With-Love-red)
+![Made With Passion](https://img.shields.io/badge/Made%20With-Passion-orange)
+![Developed Using Coffee](https://img.shields.io/badge/Developed%20Using-Coffee-brown)
 
 ---
 
