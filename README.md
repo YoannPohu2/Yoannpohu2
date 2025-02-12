@@ -1,12 +1,19 @@
-Hello 👋 I'm Yoann Pohu
+# 👋 Hello, I'm Yoannpohu2!
 
 ## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoannpohu2&show_icons=true&theme=radical)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoannpohu2&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yoannpohu2&theme=radical)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoannpohu2&layout=compact&theme=default&langs_count=8&card_width=400" width="450px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Yoannpohu2&show_icons=true&theme=default&card_width=400" width="450px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📫 Me Contacter :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yoannpohu2)
