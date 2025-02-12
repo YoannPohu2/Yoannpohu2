@@ -20,11 +20,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoannpohu12@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yoann2225)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yoannpohu2)
-
-
-
-## 👀 Profil Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Yoannpohu2&color=blue)
+
+
+
+## 👀 skill
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
 
 ## ⚡ Innovation & Créativité
 ![Powered By Electricity](https://forthebadge.com/images/badges/powered-by-electricity.svg)
