@@ -1,4 +1,6 @@
 Hi there 👋 I'm Yoann Pohu
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoannpohu2&show_icons=true&theme=radical)
+
 
 Welcome to my GitHub! I'm a Full Stack Developer with a passion for creating efficient and user-friendly applications. I enjoy building cool projects and learning new technologies to grow as a developer. Let me tell you a bit about myself!
 
