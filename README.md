@@ -36,10 +36,8 @@
 
 
 ## ⚡ Innovation & Créativité
-![Powered By Electricity](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![Built With Love](https://forthebadge.com/images/badges/built-with-love.svg)
 ![Developed Using Coffee](https://forthebadge.com/images/badges/uses-brains.svg)
-![Contains Cat Gifs](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
 ![Made With Crayons](https://forthebadge.com/images/badges/made-with-crayons.svg)
 
 ---
