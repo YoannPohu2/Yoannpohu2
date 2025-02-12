@@ -27,7 +27,6 @@
 ## ⚡ Innovation & Créativité
 ![Powered By Electricity](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![Built With Love](https://forthebadge.com/images/badges/built-with-love.svg)
-![Made With Passion](https://forthebadge.com/images/badges/made-with-passion.svg)
 ![Developed Using Coffee](https://forthebadge.com/images/badges/uses-brains.svg)
 [Uses HTML](https://forthebadge.com/images/badges/uses-html.svg)
 ![Contains Cat Gifs](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
